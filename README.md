@@ -13,3 +13,7 @@ Get all columns except 1st and 2nd: *awk '{$1=$2=""; print $0}'*
 
 ### Transaction Handling
 Spring @Transactional: http://stackoverflow.com/a/8490932/793572
+
+### JVM
+Disabling exception trace supression in oracle server JVM: http://stackoverflow.com/a/4659279/793572
+
