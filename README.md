@@ -17,3 +17,8 @@ Spring @Transactional: http://stackoverflow.com/a/8490932/793572
 ### JVM
 Disabling exception trace supression in oracle server JVM: http://stackoverflow.com/a/4659279/793572
 
+### Git
+A practical git branching model: http://nvie.com/posts/a-successful-git-branching-model/#supporting-branches
+
+### Distributed Systems:
+A nice introduction to Kafka: https://www.youtube.com/watch?v=9RMOc0SwRro&t=3s
